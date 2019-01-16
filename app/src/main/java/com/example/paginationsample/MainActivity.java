@@ -8,7 +8,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ProgressBar;
 
-import com.example.paginationsample.Response.FoodResponse;
+import com.example.paginationsample.response.FoodResponse;
 import com.example.paginationsample.adapter.FoodAdapter;
 import com.example.paginationsample.api.ApiClient;
 import com.example.paginationsample.api.ApiInterface;

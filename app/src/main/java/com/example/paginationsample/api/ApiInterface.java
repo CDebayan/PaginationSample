@@ -1,7 +1,7 @@
 package com.example.paginationsample.api;
 
 
-import com.example.paginationsample.Response.FoodResponse;
+import com.example.paginationsample.response.FoodResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,4 +1,4 @@
-package com.example.paginationsample.Response;
+package com.example.paginationsample.response;
 
 import com.example.paginationsample.model.FoodModel;
 import com.google.gson.annotations.Expose;
